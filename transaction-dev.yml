@@ -1,0 +1,8 @@
+MongoDbSettings:
+  ConnectionString: mongodb://admin:Passw0rd1234@mongodb-local:27017
+  DatabaseName: Transactions
+
+RabbitMqSettings:
+  HostName: rabbitmq-muchik
+  Username: admin
+  Password: Passw0rd1234

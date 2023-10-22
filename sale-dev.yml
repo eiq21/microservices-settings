@@ -1,0 +1,7 @@
+ConnectionStrings:
+  InvoicementConnection: Server=postgres-local;Port=5432;Database=Muchik-SaleDb;User Id=admin;Password=P@ssw0rd1234
+
+RabbitMqSettings:
+  HostName: rabbitmq-muchik
+  Username: admin
+  Password: Passw0rd1234
